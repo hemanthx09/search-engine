@@ -1,0 +1,27 @@
+img {
+    width: 200px;
+    display: inline-block;
+    margin-top: 157px;
+    margin-left: 571px;
+    text-align: center;
+}
+h1{
+    font-size:10px ;
+    margin-left: 620px;
+    
+}
+
+    div {
+        display: block;
+        width: 73px;
+        margin-left: 583px;
+        margin-top: 31px;
+        
+    }
+
+button {
+    
+    color: blue;
+    border-color: #950707;
+    border-width: 3px;
+}
